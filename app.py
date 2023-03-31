@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+# import plotly.express as px
 # import matplotlib.pyplot as plt
 st.title("Internal Testing Deployment Model")
 st.sidebar.title("Deep Dive analysis with NLP and GPT")
